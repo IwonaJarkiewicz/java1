@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 function mnozenie(tablicaLiczb) {
     var iloczyn = 1;

@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 function multiply(param1) {
     var iloczyn = 1;
